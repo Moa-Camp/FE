@@ -1,0 +1,38 @@
+{
+    "main": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "BootCamp",
+            "url": "/bootcamp"
+        },
+        {
+            "name": "Community",
+            "url": "/community"
+        },
+        {
+            "name": "QnA",
+            "url": "/qna"
+        }
+    ],
+    "footer": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "BootCamp",
+            "url": "/bootcamp"
+        },
+        {
+            "name": "Community",
+            "url": "/community"
+        },
+        {
+            "name": "QnA",
+            "url": "/qna"
+        }
+    ]
+}

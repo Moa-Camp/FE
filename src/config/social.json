@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "link": "https://facebook.com/",
+      "icon": "FaFacebook"
+    },
+    {
+      "name": "twitter",
+      "link": "https://twitter.com/",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "linkedin",
+      "link": "https://linkedin.com/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "printerest",
+      "link": "https://pinterest.com/",
+      "icon": "FaPinterest"
+    }
+  ]
+}
